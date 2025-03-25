@@ -1,4 +1,4 @@
-# Basics Full Stack GQL Application
+# Basic Full Stack GQL Application
 
 ## How to use this repo
 
