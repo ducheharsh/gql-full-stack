@@ -12,6 +12,7 @@ export const typeDefs = gql`
     thumbnail: String
     length: Int
     modulesCount: Int
+
   }
 
   type Author {
