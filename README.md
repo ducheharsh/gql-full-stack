@@ -8,7 +8,6 @@ There are 3 main folders:
 
 - `server`: The starting point of our GraphQL server.
 - `client`: The starting point of our React application.
-- `final`: The final stage of both the server and client folders, with all of the steps and code completed!
 
 To get started:
 
